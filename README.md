@@ -1,5 +1,6 @@
 # Java-Library-Issue-Example 
-* *Resolved*
+
+## *Resolved*
 
 Demonstrate the issue with java library module and android application
 
